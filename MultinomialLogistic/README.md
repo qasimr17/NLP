@@ -6,7 +6,7 @@ This notebook shows the implementation of a Multinomial Logistic Regression mode
 
 ## Dataset
 
-The dataset used in this notebook is a condensed version of the [Twitter US Airline Sentiment Dataset]([Twitter US Airline Sentiment | Kaggle](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)) containing 14,640 tweets about airlines labelled as positive, negative and neutral.
+The dataset used in this notebook is a condensed version of the [Twitter US Airline Sentiment | Kaggle dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) containing 14,640 tweets about airlines labelled as positive, negative and neutral.
 
 
 
