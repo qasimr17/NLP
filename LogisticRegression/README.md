@@ -38,12 +38,12 @@ Each review is represented by 6 features x<sub>1</sub>,...,x<sub>6</sub> accordi
 
 | **Feature**   | **Definition**                       | **Comment**                  |
 | ------------- | ------------------------------------ | ---------------------------- |
-| x<sub>1</sub> | count (positive words)  $\in$ review | Positive lexicon is provided |
-| x<sub>2</sub> | count (negative words) $\in$ review  | Negative lexicon is provided |
+| x<sub>1</sub> | count (positive words)  $`\in`$ review | Positive lexicon is provided |
+| x<sub>2</sub> | count (negative words) $`\in`$ review  | Negative lexicon is provided |
 | x<sub>3</sub> | Star Rating (1-10 scale)             | Mentioned in filename        |
 | x<sub>4</sub> | log (word count of review)           |                              |
-| x<sub>5</sub> | 1 if "no" $\in$ review, 0 otherwise  |                              |
-| x<sub>6</sub> | 1 if "!" $ \in$ review, 0 otherwise  |                              |
+| x<sub>5</sub> | 1 if "no" $`\in`$ review, 0 otherwise  |                              |
+| x<sub>6</sub> | 1 if "!" $`\in`$ review, 0 otherwise  |                              |
 | y             | 1 if positive, 0 otherwise           | Mentioned in directory name  |
 
 
